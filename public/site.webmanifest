@@ -1,0 +1,27 @@
+{
+  "name": "Mahesh Ubarhande",
+  "short_name": "Mahesh",
+  "description": "Final-year AI & Data Science student skilled in ML, NLP, Computer Vision, and LLMs. Building intelligent, data-driven solutions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0066FF",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
