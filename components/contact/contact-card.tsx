@@ -42,7 +42,7 @@ export function ContactCard(): ReactNode {
               <div className="border-foreground/8 flex flex-col items-center justify-center gap-6 rounded-[1.1rem] border bg-background p-6 sm:p-8">
                 <div className="flex items-center gap-3 opacity-75">
                   <SocialIcon
-                    href="mailto:ubarhandemahesh@gmail.com"
+                    href="mailto:ubarhandemahesh2004@gmail.com"
                     label="Email"
                     lucideIcon={Mail}
                   />
@@ -59,7 +59,7 @@ export function ContactCard(): ReactNode {
                 </div>
                 <div className="flex flex-col items-center gap-1 text-center">
                   <p className="text-[13px] tracking-tight text-foreground/70">
-                    2024 &copy; Built with Next.js
+                    {new Date().getFullYear()} &copy; Built with Next.js
                   </p>
                   <p className="text-[12px] tracking-tight text-foreground/45">
                     By Mahesh
