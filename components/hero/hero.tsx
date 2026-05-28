@@ -8,8 +8,8 @@ import {
 
 import { PortraitMorph } from "./portrait-morph";
 
-const PORTRAIT_SRC = "/mahesh11.png";
-const PORTRAIT_HOVER_SRC = "/mahesh2.png";
+const PORTRAIT_SRC = "/mahesh.webp";
+const PORTRAIT_HOVER_SRC = "/mahesh-wave.webp";
 
 export function Hero(): ReactNode {
   return (
